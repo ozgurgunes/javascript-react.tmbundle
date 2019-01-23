@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>import React, { Component, PropTypes } from 'react';
+
+class ${1:Component} extends Component {
+    static propTypes = {
+        className: PropTypes.string,
+    };
+    constructor(props) {
+        super(props);
+    }
+    render() {
+        return (
+            ${2}
+        );
+    }
+}
+export default ${1:Component};</string>
+	<key>name</key>
+	<string>React Component</string>
+	<key>tabTrigger</key>
+	<string>comp</string>
+	<key>uuid</key>
+	<string>9A5791B3-D314-4466-A9B8-2F1BD71DC14E</string>
+</dict>
+</plist>

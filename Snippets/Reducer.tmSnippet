@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>import {
+    ${2:Action}
+} from '${3:path}';
+const defaultState = {
+    ${4:prop},
+};
+const ${1:Reducer} = (state = defaultState, action = {}) =&gt; {
+    switch (action.type) {
+        case ${5:type}:
+            return {
+                ...state,
+            };
+        default:
+            return state;
+    }
+};
+export default ${1:Reducer};
+</string>
+	<key>name</key>
+	<string>Reducer</string>
+	<key>tabTrigger</key>
+	<string>rred</string>
+	<key>uuid</key>
+	<string>4473865F-1B09-4A73-8EBA-57C8A0434263</string>
+</dict>
+</plist>

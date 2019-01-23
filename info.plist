@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>b.tharf@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Ozgur Gunes</string>
+	<key>description</key>
+	<string>Support for React Javascript Library</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>9A5791B3-D314-4466-A9B8-2F1BD71DC14E</string>
+			<string>3F863712-E115-4002-9015-B8560454CE6C</string>
+			<string>858B81FC-0789-4950-850E-BA4D16717947</string>
+			<string>------------------------------------</string>
+			<string>A7825ACC-AFFC-4CA2-9AFC-8F3FC8199A28</string>
+			<string>CEB6F9E7-575A-4523-BE6C-C89D54BE65FF</string>
+			<string>E0AF206D-3233-45BA-A1C3-64B7C0AFA544</string>
+			<string>BA20AD3F-A965-4370-82D1-A7EC97F094C3</string>
+			<string>------------------------------------</string>
+			<string>17EB93C3-1650-4429-A281-68F46B5E2569</string>
+			<string>3B6D4A7D-411C-4838-BEB6-D40B545491F3</string>
+			<string>------------------------------------</string>
+			<string>547DD052-D4BA-4F20-BAA7-F7E62130F331</string>
+			<string>4473865F-1B09-4A73-8EBA-57C8A0434263</string>
+			<string>------------------------------------</string>
+			<string>B2721641-B098-458E-BE28-5C3BD46F3E63</string>
+			<string>421F8BB3-1E46-4068-A3FE-FBB5ACF96E60</string>
+		</array>
+  </dict>
+	<key>name</key>
+	<string>Javascript (React)</string>
+	<key>uuid</key>
+	<string>F9986661-BCA7-48DB-AB05-64850A3E281F</string>
+</dict>
+</plist>

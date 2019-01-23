@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>import React, { Component, PropTypes } from 'react';
+import { connect } from 'react-redux';
+import {
+    ${2:action} as ${2:action}Action,
+} from '${3:path}';
+const mapDispatchToProps = (dispatch) =&gt; {
+    return {
+        ${2:action}: () =&gt; {
+            dispatch(${2:action}Action());
+        },
+    };
+};
+const mapStateToProps = ({ state }) =&gt; ({
+    ${4:prop}: state.${4:prop}
+});
+export class ${1:Component} extends Component {
+    render() {
+        const {
+            ${2:action}
+        } = this.props;
+        return (
+            ${0}
+        );
+    }
+}
+export default connect(
+    mapStateToProps,
+    mapDispatchToProps
+)(${1:Component});</string>
+	<key>name</key>
+	<string>Redux Component</string>
+	<key>tabTrigger</key>
+	<string>rrc</string>
+	<key>uuid</key>
+	<string>3F863712-E115-4002-9015-B8560454CE6C</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>export const ${1:action} = (${2:payload}) =&gt; ({
+    type: ${3:type},
+    ${2:payload}
+});</string>
+	<key>name</key>
+	<string>Action</string>
+	<key>tabTrigger</key>
+	<string>ract</string>
+	<key>uuid</key>
+	<string>547DD052-D4BA-4F20-BAA7-F7E62130F331</string>
+</dict>
+</plist>

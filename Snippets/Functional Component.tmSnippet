@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>import React, { PropTypes } from 'react';
+const ${1:Component} = ({ className }) =&gt; {
+    return (
+        ${2}
+    );
+};
+${1:Component}.displayName = '${1:Component}';
+${1:Component}.propTypes = {
+    className: PropTypes.string,
+};
+export default ${1:Component};</string>
+	<key>name</key>
+	<string>Functional Component</string>
+	<key>tabTrigger</key>
+	<string>rfc</string>
+	<key>uuid</key>
+	<string>858B81FC-0789-4950-850E-BA4D16717947</string>
+</dict>
+</plist>
