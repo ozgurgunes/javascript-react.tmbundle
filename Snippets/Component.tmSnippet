@@ -22,7 +22,7 @@ export default ${1:Component};</string>
 	<key>name</key>
 	<string>React Component</string>
 	<key>tabTrigger</key>
-	<string>comp</string>
+	<string>rcc</string>
 	<key>uuid</key>
 	<string>9A5791B3-D314-4466-A9B8-2F1BD71DC14E</string>
 </dict>

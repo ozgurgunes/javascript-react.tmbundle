@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>willUnmount</string>
 	<key>tabTrigger</key>
-	<string>will</string>
+	<string>rwu</string>
 	<key>uuid</key>
 	<string>E0AF206D-3233-45BA-A1C3-64B7C0AFA544</string>
 </dict>

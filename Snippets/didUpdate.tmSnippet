@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>didUpdate</string>
 	<key>tabTrigger</key>
-	<string>didu</string>
+	<string>rdu</string>
 	<key>uuid</key>
 	<string>CEB6F9E7-575A-4523-BE6C-C89D54BE65FF</string>
 </dict>

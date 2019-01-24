@@ -24,7 +24,7 @@ export default ${1:Reducer};
 	<key>name</key>
 	<string>Reducer</string>
 	<key>tabTrigger</key>
-	<string>rred</string>
+	<string>red</string>
 	<key>uuid</key>
 	<string>4473865F-1B09-4A73-8EBA-57C8A0434263</string>
 </dict>

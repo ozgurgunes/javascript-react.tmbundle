@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>Action</string>
 	<key>tabTrigger</key>
-	<string>ract</string>
+	<string>rac</string>
 	<key>uuid</key>
 	<string>547DD052-D4BA-4F20-BAA7-F7E62130F331</string>
 </dict>

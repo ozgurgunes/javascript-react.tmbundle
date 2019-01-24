@@ -8,6 +8,8 @@
 }</string>
 	<key>name</key>
 	<string>mapDispatch</string>
+	<key>tabTrigger</key>
+	<string>rmd</string>
 	<key>uuid</key>
 	<string>B2721641-B098-458E-BE28-5C3BD46F3E63</string>
 </dict>

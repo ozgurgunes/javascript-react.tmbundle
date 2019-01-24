@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>didMount</string>
 	<key>tabTrigger</key>
-	<string>didm</string>
+	<string>rdm</string>
 	<key>uuid</key>
 	<string>A7825ACC-AFFC-4CA2-9AFC-8F3FC8199A28</string>
 </dict>
